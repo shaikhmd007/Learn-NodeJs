@@ -1,6 +1,6 @@
 const fs = require("node:fs");
 
-//Sync
+//Synchronous Method 
 // console.log("start");
 // const start = Date.now();
 try {
@@ -42,7 +42,7 @@ try {
 
 // fs.mkdirSync("./F1/F3");
 
-//Async
+//Async method
 
 
 
